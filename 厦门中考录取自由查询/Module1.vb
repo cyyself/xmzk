@@ -1,10 +1,16 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("请输入报名号号：（可打开中考志愿填报工具.exe中的SQ Lite文件查询）")
+        Console.WriteLine("请输入报名号：（可打开中考志愿填报工具.exe中的SQ Lite文件查询）")
         Dim bmh As String = Console.ReadLine()
         Console.WriteLine("请输入准考证号前6位：（根据考试学校决定）")
         Dim zkz6 As String = Console.ReadLine()
+        If zkz6.Length = 6 Then
+        Else
+            MsgBox("准考证号不合法")
+            Console.Clear()
+            Main()
+        End If
         For i = 1 To 30
             For i2 = 1 To 50
                 Dim number As String
@@ -38,7 +44,7 @@
                 End If
             Next
         Next
-        Console.WriteLine("已遍历， 无结果")
+        Console.WriteLine("已遍历，无结果，请检查输入信息是否正确。")
         Console.ReadKey()
     End Sub
 
