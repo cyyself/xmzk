@@ -7,5 +7,3 @@ C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查�
 C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\obj\Release\厦门中考录取自由查询.exe
 C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\obj\Release\厦门中考录取自由查询.xml
 C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\obj\Release\厦门中考录取自由查询.pdb
-C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\bin\Release\厦门中考录取自由查询.exe.CodeAnalysisLog.xml
-C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\bin\Release\厦门中考录取自由查询.exe.lastcodeanalysissucceeded

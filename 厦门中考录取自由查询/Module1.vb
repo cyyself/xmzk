@@ -23,7 +23,7 @@
             Int(bmh)
             Int(zkz6)
             Int(kc)
-            Int(zy)
+            Int(zw)
         Catch ex As Exception
             MsgBox("存在不合法输入，请重新输入")
             Console.Clear()
