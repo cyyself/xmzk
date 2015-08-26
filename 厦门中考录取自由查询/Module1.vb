@@ -31,12 +31,14 @@
                     If data.Contains("无录取信息。") Then
                         Console.WriteLine("已查询准考证号：" & zkz6 & number & "无录取信息。")
                     Else
-                        MsgBox(data)
+
+                        MsgBox("准考证号：" & zkz6 & number & vbCrLf & data)
+                        End
                     End If
                 End If
             Next
         Next
-        Console.WriteLine("已遍历，无结果")
+        Console.WriteLine("已遍历， 无结果")
         Console.ReadKey()
     End Sub
 

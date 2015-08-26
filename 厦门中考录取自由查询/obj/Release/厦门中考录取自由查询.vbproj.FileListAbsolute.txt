@@ -1,1 +1,10 @@
 C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\bin\Release\厦门中考录取自由查询.exe.config
+C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\bin\Release\厦门中考录取自由查询.exe
+C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\bin\Release\厦门中考录取自由查询.pdb
+C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\bin\Release\厦门中考录取自由查询.xml
+C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\obj\Release\厦门中考录取自由查询.vbprojResolveAssemblyReference.cache
+C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\obj\Release\厦门中考录取自由查询.Resources.resources
+C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\obj\Release\厦门中考录取自由查询.vbproj.GenerateResource.Cache
+C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\obj\Release\厦门中考录取自由查询.exe
+C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\obj\Release\厦门中考录取自由查询.xml
+C:\Users\cyy\Documents\Visual Studio 2015\Projects\厦门中考录取自由查询\厦门中考录取自由查询\obj\Release\厦门中考录取自由查询.pdb
