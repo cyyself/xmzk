@@ -1,6 +1,9 @@
 ﻿Module Module1
 
     Sub Main()
+        Console.WriteLine("厦门中考录取自由查询工具")
+        Console.WriteLine("https://github.com/cyyself/xmzk")
+        Console.WriteLine("https://cyyself.name/2015/08/xmzk/" & vbCrLf)
         Console.WriteLine("请输入报名号：（可打开中考志愿填报工具.exe中的SQ Lite文件查询）")
         Dim bmh As String = Console.ReadLine()
         Console.WriteLine("请输入准考证号前6位：（根据考试学校决定）")
