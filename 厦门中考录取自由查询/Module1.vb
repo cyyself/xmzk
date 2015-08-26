@@ -10,7 +10,23 @@
             MsgBox("准考证号不合法")
             Console.Clear()
             Main()
+            End
         End If
+        Console.WriteLine("请输入该考生考试学校的考场数量：")
+        Dim kc As String = Console.ReadLine()
+        Console.WriteLine("请输入该考生考场的座位数量：")
+        Dim zy As String = Console.ReadLine()
+        Try
+            Int(bmh)
+            Int(zkz6)
+            Int(kc)
+            Int(zy)
+        Catch ex As Exception
+            MsgBox("存在不合法输入，请重新输入")
+            Console.Clear()
+            Main()
+            End
+        End Try
         For i = 1 To 30
             For i2 = 1 To 50
                 Dim number As String
