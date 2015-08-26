@@ -18,7 +18,7 @@
         Console.WriteLine("请输入该考生考试学校的考场数量：")
         Dim kc As String = Console.ReadLine()
         Console.WriteLine("请输入该考生考场的座位数量：")
-        Dim zy As String = Console.ReadLine()
+        Dim zw As String = Console.ReadLine()
         Try
             Int(bmh)
             Int(zkz6)
@@ -30,8 +30,8 @@
             Main()
             End
         End Try
-        For i = 1 To 30
-            For i2 = 1 To 50
+        For i = 1 To Int(kc)
+            For i2 = 1 To Int(zw)
                 Dim number As String
                 Dim data As String
                 Dim s As Boolean = False
